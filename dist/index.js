@@ -1,0 +1,1 @@
+import img from '../assets/ombre-blue-curve-light-blue-background-vector.jpg'
